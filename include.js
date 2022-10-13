@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  {
+    artName: 'JID Pulse',
+    pageLink: './Art/JID_animation/index.html',
+    imageLink: './Art/JID_animation/JID_pulse.gif',
+    author: 'JoshuaIsADev',
+    githubLink: 'https://github.com/JoshuaIsADev'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
